@@ -1,0 +1,53 @@
+/*logo abstract*/
+
+* {
+    background-color: black;
+}
+
+.base {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 200px;
+    border-radius: 90px;
+}
+
+.tracinho_deitado {
+    background-color: black;
+    width: 150px;
+    height: 15px;
+    margin: 0 auto;
+    margin-top: -190px;
+    margin-left: 687.5px;
+}
+
+.tracinho_em_pé {
+    background-color: black;
+    width: 120px;
+    height: 15px;
+    rotate: 90deg;
+    margin: 0 auto;
+    margin-right: 630px;
+    margin-top: 51.9px;
+}
+
+.bolhinha {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-top: -50px;
+    margin-left: 700px;
+}
+
+.bolhinha_dentro {
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    margin: 0 auto;
+    margin-top: -85px;
+    margin-left: 715px;
+}
